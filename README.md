@@ -1,6 +1,6 @@
 # weather
 
---run the migration
+--run the migration \n
 python manage.py makemigrations
 python manage.py migrate 
 
