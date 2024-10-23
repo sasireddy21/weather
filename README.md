@@ -135,6 +135,3 @@ This project leverages **Django**, **SQLite**, and various **AWS services** to c
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
