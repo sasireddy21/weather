@@ -66,17 +66,22 @@ You can check the stats history using the following endpoints:
   http://127.0.0.1:8000/api/weather/stats?station_id=USC00110187
   ```
 
+  <img width="953" alt="station id analysis" src="https://github.com/user-attachments/assets/38ea31dd-a297-4576-b49e-1c22beb18629">
+
 - Retrieve stats for a specific station for a specific year:
   ```plaintext
   http://127.0.0.1:8000/api/weather/stats?station_id=USC00110187&year=1985
   ```
+  <img width="947" alt="stats and year" src="https://github.com/user-attachments/assets/0029ece7-34a1-4f72-8b7b-c607e6192ea1">
+
 
 - Retrieve stats for a specific year:
   ```plaintext
   http://127.0.0.1:8000/api/weather/stats?year=1985
   ```
 
-  <img width="953" alt="station id analysis" src="https://github.com/user-attachments/assets/38ea31dd-a297-4576-b49e-1c22beb18629">
+  <img width="958" alt="image" src="https://github.com/user-attachments/assets/9d95dbf7-dc7b-4934-805b-bd3dd9482ac9">
+  
 
 
 # ETL Tool with Django, SQLite, and AWS Services
