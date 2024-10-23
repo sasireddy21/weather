@@ -37,12 +37,12 @@ python manage.py runserver
 ## Check Weather History
 You can check the weather history using the following endpoints:
 
-- Retrieve the last 10 records:
+- Retrieve the weather history:
   ```plaintext
   http://127.0.0.1:8000/api/weather?limit=10
   ```
 
-- Retrieve the last 10 records for a specific station:
+- Retrieve the records for a specific station:
   ```plaintext
   http://127.0.0.1:8000/api/weather?limit=10&station_id=USC00257715
   ```
