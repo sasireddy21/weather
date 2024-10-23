@@ -41,6 +41,8 @@ You can check the weather history using the following endpoints:
   ```plaintext
   http://127.0.0.1:8000/api/weather?limit=10
   ```
+  <img width="952" alt="Weather full data" src="https://github.com/user-attachments/assets/29cce954-7d92-455d-83fb-b24603ed70ec">
+
 
 - Retrieve the records for a specific station:
   ```plaintext
