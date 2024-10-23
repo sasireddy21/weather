@@ -48,11 +48,15 @@ You can check the weather history using the following endpoints:
   ```plaintext
   http://127.0.0.1:8000/api/weather?limit=10&station_id=USC00257715
   ```
+  <img width="953" alt="State_id" src="https://github.com/user-attachments/assets/695da1dd-e713-47a9-aebe-9379217e3764">
+
 
 - Retrieve records for a specific date at a specific station:
   ```plaintext
   http://127.0.0.1:8000/api/weather?limit=10&station_id=USC00257715&date=1985-01-01
   ```
+  <img width="949" alt="state_id and date" src="https://github.com/user-attachments/assets/1978286a-139d-4ab7-a566-0c1f389d9506">
+
 
 ## Check Stats History
 You can check the stats history using the following endpoints:
@@ -71,4 +75,7 @@ You can check the stats history using the following endpoints:
   ```plaintext
   http://127.0.0.1:8000/api/weather/stats?year=1985
   ```
+
+  <img width="953" alt="station id analysis" src="https://github.com/user-attachments/assets/38ea31dd-a297-4576-b49e-1c22beb18629">
+
 
