@@ -30,3 +30,43 @@ To start the server, use:
 ```bash
 python manage.py runserver
 ```
+
+
+# Weather API Instructions
+
+## Check Weather History
+You can check the weather history using the following endpoints:
+
+- Retrieve the last 10 records:
+  ```plaintext
+  http://127.0.0.1:8000/api/weather?limit=10
+  ```
+
+- Retrieve the last 10 records for a specific station:
+  ```plaintext
+  http://127.0.0.1:8000/api/weather?limit=10&station_id=USC00257715
+  ```
+
+- Retrieve records for a specific date at a specific station:
+  ```plaintext
+  http://127.0.0.1:8000/api/weather?limit=10&station_id=USC00257715&date=1985-01-01
+  ```
+
+## Check Stats History
+You can check the stats history using the following endpoints:
+
+- Retrieve stats for a specific station:
+  ```plaintext
+  http://127.0.0.1:8000/api/weather/stats?station_id=USC00110187
+  ```
+
+- Retrieve stats for a specific station for a specific year:
+  ```plaintext
+  http://127.0.0.1:8000/api/weather/stats?station_id=USC00110187&year=1985
+  ```
+
+- Retrieve stats for a specific year:
+  ```plaintext
+  http://127.0.0.1:8000/api/weather/stats?year=1985
+  ```
+
