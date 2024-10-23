@@ -1,17 +1,32 @@
-# weather
+# Project Instructions
 
---run the migration \n
+## Running Migrations
+Run the following commands to apply database migrations:
+```bash
 python manage.py makemigrations
-python manage.py migrate 
+python manage.py migrate
+```
 
---dump the data from wx_data folder into sqlite DB
+## Dump Data into SQLite Database
+To dump the data from the `wx_data` folder into the SQLite database, use:
+```bash
 python manage.py dumpintodb
+```
 
---calculate the temperature
+## Calculate the Temperature
+To calculate the temperature, run:
+```bash
 python manage.py analysis
+```
 
---Unit test cases to check the weather analysis table
+## Run Unit Test Cases
+To check the weather analysis table with unit tests, execute:
+```bash
 python manage.py test
+```
 
---run the server
+## Run the Server
+To start the server, use:
+```bash
 python manage.py runserver
+```
