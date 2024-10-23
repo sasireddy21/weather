@@ -1,0 +1,341 @@
+DEBUG 2024-10-24 00:22:04,085 get 'PAGE_SIZE' casted as 'None' with default '<NoValue>'
+DEBUG 2024-10-24 00:22:35,344 get 'PAGE_SIZE' casted as 'None' with default '<NoValue>'
+DEBUG 2024-10-24 00:23:41,971 get 'PAGE_SIZE' casted as 'None' with default '<NoValue>'
+DEBUG 2024-10-24 00:25:20,174 get 'PAGE_SIZE' casted as 'None' with default '<NoValue>'
+INFO 2024-10-23 18:55:20,459 Dumping started...
+INFO 2024-10-23 18:55:20,460 Dumping started for USC00257715.txt file
+INFO 2024-10-23 18:55:21,290 Dump completed for USC00257715.txt file,total insert count 10957
+INFO 2024-10-23 18:55:21,292 Dumping started for USC00113879.txt file
+INFO 2024-10-23 18:55:21,525 Dump completed for USC00113879.txt file,total insert count 9074
+INFO 2024-10-23 18:55:21,526 Dumping started for USC00127935.txt file
+INFO 2024-10-23 18:55:21,743 Dump completed for USC00127935.txt file,total insert count 10380
+INFO 2024-10-23 18:55:21,744 Dumping started for USC00112193.txt file
+INFO 2024-10-23 18:55:21,941 Dump completed for USC00112193.txt file,total insert count 10653
+INFO 2024-10-23 18:55:21,942 Dumping started for USC00250640.txt file
+INFO 2024-10-23 18:55:22,152 Dump completed for USC00250640.txt file,total insert count 10957
+INFO 2024-10-23 18:55:22,156 Dumping started for USC00257070.txt file
+INFO 2024-10-23 18:55:22,349 Dump completed for USC00257070.txt file,total insert count 10926
+INFO 2024-10-23 18:55:22,351 Dumping started for USC00114442.txt file
+INFO 2024-10-23 18:55:22,557 Dump completed for USC00114442.txt file,total insert count 10957
+INFO 2024-10-23 18:55:22,558 Dumping started for USC00115833.txt file
+INFO 2024-10-23 18:55:22,756 Dump completed for USC00115833.txt file,total insert count 10866
+INFO 2024-10-23 18:55:22,756 Dumping started for USC00130133.txt file
+INFO 2024-10-23 18:55:22,962 Dump completed for USC00130133.txt file,total insert count 10957
+INFO 2024-10-23 18:55:22,964 Dumping started for USC00132724.txt file
+INFO 2024-10-23 18:55:23,160 Dump completed for USC00132724.txt file,total insert count 10836
+INFO 2024-10-23 18:55:23,161 Dumping started for USC00250130.txt file
+INFO 2024-10-23 18:55:23,332 Dump completed for USC00250130.txt file,total insert count 9587
+INFO 2024-10-23 18:55:23,334 Dumping started for USC00256970.txt file
+INFO 2024-10-23 18:55:23,528 Dump completed for USC00256970.txt file,total insert count 10017
+INFO 2024-10-23 18:55:23,530 Dumping started for USC00116446.txt file
+INFO 2024-10-23 18:55:23,722 Dump completed for USC00116446.txt file,total insert count 10654
+INFO 2024-10-23 18:55:23,724 Dumping started for USC00253175.txt file
+INFO 2024-10-23 18:55:23,929 Dump completed for USC00253175.txt file,total insert count 10957
+INFO 2024-10-23 18:55:23,930 Dumping started for USC00129113.txt file
+INFO 2024-10-23 18:55:24,132 Dump completed for USC00129113.txt file,total insert count 10927
+INFO 2024-10-23 18:55:24,133 Dumping started for USC00134142.txt file
+INFO 2024-10-23 18:55:24,327 Dump completed for USC00134142.txt file,total insert count 10807
+INFO 2024-10-23 18:55:24,329 Dumping started for USC00121229.txt file
+INFO 2024-10-23 18:55:24,441 Dump completed for USC00121229.txt file,total insert count 6087
+INFO 2024-10-23 18:55:24,443 Dumping started for USC00116526.txt file
+INFO 2024-10-23 18:55:24,649 Dump completed for USC00116526.txt file,total insert count 10926
+INFO 2024-10-23 18:55:24,651 Dumping started for USC00259510.txt file
+INFO 2024-10-23 18:55:24,815 Dump completed for USC00259510.txt file,total insert count 8735
+INFO 2024-10-23 18:55:24,816 Dumping started for USC00255470.txt file
+INFO 2024-10-23 18:55:24,972 Dump completed for USC00255470.txt file,total insert count 8489
+INFO 2024-10-23 18:55:24,973 Dumping started for USC00257515.txt file
+INFO 2024-10-23 18:55:25,166 Dump completed for USC00257515.txt file,total insert count 10075
+INFO 2024-10-23 18:55:25,168 Dumping started for USC00258395.txt file
+INFO 2024-10-23 18:55:25,363 Dump completed for USC00258395.txt file,total insert count 10957
+INFO 2024-10-23 18:55:25,364 Dumping started for USC00338313.txt file
+INFO 2024-10-23 18:55:25,541 Dump completed for USC00338313.txt file,total insert count 9862
+INFO 2024-10-23 18:55:25,542 Dumping started for USC00131402.txt file
+INFO 2024-10-23 18:55:25,753 Dump completed for USC00131402.txt file,total insert count 10957
+INFO 2024-10-23 18:55:25,754 Dumping started for USC00118916.txt file
+INFO 2024-10-23 18:55:25,950 Dump completed for USC00118916.txt file,total insert count 10865
+INFO 2024-10-23 18:55:25,951 Dumping started for USC00124181.txt file
+INFO 2024-10-23 18:55:26,154 Dump completed for USC00124181.txt file,total insert count 10681
+INFO 2024-10-23 18:55:26,155 Dumping started for USC00128036.txt file
+INFO 2024-10-23 18:55:26,354 Dump completed for USC00128036.txt file,total insert count 10835
+INFO 2024-10-23 18:55:26,355 Dumping started for USC00126580.txt file
+INFO 2024-10-23 18:55:26,564 Dump completed for USC00126580.txt file,total insert count 10899
+INFO 2024-10-23 18:55:26,566 Dumping started for USC00129670.txt file
+INFO 2024-10-23 18:55:26,769 Dump completed for USC00129670.txt file,total insert count 10957
+INFO 2024-10-23 18:55:26,772 Dumping started for USC00115943.txt file
+INFO 2024-10-23 18:55:26,983 Dump completed for USC00115943.txt file,total insert count 10957
+INFO 2024-10-23 18:55:26,984 Dumping started for USC00124008.txt file
+INFO 2024-10-23 18:55:27,093 Dump completed for USC00124008.txt file,total insert count 5476
+INFO 2024-10-23 18:55:27,094 Dumping started for USC00116910.txt file
+INFO 2024-10-23 18:55:27,288 Dump completed for USC00116910.txt file,total insert count 10898
+INFO 2024-10-23 18:55:27,290 Dumping started for USC00114108.txt file
+INFO 2024-10-23 18:55:27,502 Dump completed for USC00114108.txt file,total insert count 10896
+INFO 2024-10-23 18:55:27,504 Dumping started for USC00127298.txt file
+INFO 2024-10-23 18:55:27,701 Dump completed for USC00127298.txt file,total insert count 10957
+INFO 2024-10-23 18:55:27,702 Dumping started for USC00110187.txt file
+INFO 2024-10-23 18:55:27,935 Dump completed for USC00110187.txt file,total insert count 10407
+INFO 2024-10-23 18:55:27,937 Dumping started for USC00253365.txt file
+INFO 2024-10-23 18:55:28,153 Dump completed for USC00253365.txt file,total insert count 10926
+INFO 2024-10-23 18:55:28,154 Dumping started for USC00251200.txt file
+INFO 2024-10-23 18:55:28,439 Dump completed for USC00251200.txt file,total insert count 10805
+INFO 2024-10-23 18:55:28,440 Dumping started for USC00112140.txt file
+INFO 2024-10-23 18:55:28,652 Dump completed for USC00112140.txt file,total insert count 10957
+INFO 2024-10-23 18:55:28,653 Dumping started for USC00253615.txt file
+INFO 2024-10-23 18:55:28,895 Dump completed for USC00253615.txt file,total insert count 10927
+INFO 2024-10-23 18:55:28,896 Dumping started for USC00255310.txt file
+INFO 2024-10-23 18:55:29,112 Dump completed for USC00255310.txt file,total insert count 10926
+INFO 2024-10-23 18:55:29,113 Dumping started for USC00132864.txt file
+INFO 2024-10-23 18:55:29,498 Dump completed for USC00132864.txt file,total insert count 10957
+INFO 2024-10-23 18:55:29,499 Dumping started for USC00129511.txt file
+INFO 2024-10-23 18:55:29,681 Dump completed for USC00129511.txt file,total insert count 6849
+INFO 2024-10-23 18:55:29,682 Dumping started for USC00118740.txt file
+INFO 2024-10-23 18:55:29,939 Dump completed for USC00118740.txt file,total insert count 10957
+INFO 2024-10-23 18:55:29,940 Dumping started for USC00333780.txt file
+INFO 2024-10-23 18:55:30,151 Dump completed for USC00333780.txt file,total insert count 10927
+INFO 2024-10-23 18:55:30,152 Dumping started for USC00254900.txt file
+INFO 2024-10-23 18:55:30,373 Dump completed for USC00254900.txt file,total insert count 10927
+INFO 2024-10-23 18:55:30,374 Dumping started for USC00255565.txt file
+INFO 2024-10-23 18:55:30,584 Dump completed for USC00255565.txt file,total insert count 10957
+INFO 2024-10-23 18:55:30,586 Dumping started for USC00250435.txt file
+INFO 2024-10-23 18:55:30,804 Dump completed for USC00250435.txt file,total insert count 10957
+INFO 2024-10-23 18:55:30,805 Dumping started for USC00252020.txt file
+INFO 2024-10-23 18:55:31,026 Dump completed for USC00252020.txt file,total insert count 10746
+INFO 2024-10-23 18:55:31,030 Dumping started for USC00138296.txt file
+INFO 2024-10-23 18:55:31,258 Dump completed for USC00138296.txt file,total insert count 10837
+INFO 2024-10-23 18:55:31,260 Dumping started for USC00132977.txt file
+INFO 2024-10-23 18:55:31,462 Dump completed for USC00132977.txt file,total insert count 10957
+INFO 2024-10-23 18:55:31,464 Dumping started for USC00118147.txt file
+INFO 2024-10-23 18:55:31,659 Dump completed for USC00118147.txt file,total insert count 9896
+INFO 2024-10-23 18:55:31,662 Dumping started for USC00250622.txt file
+INFO 2024-10-23 18:55:31,882 Dump completed for USC00250622.txt file,total insert count 10896
+INFO 2024-10-23 18:55:31,883 Dumping started for USC00331592.txt file
+INFO 2024-10-23 18:55:32,125 Dump completed for USC00331592.txt file,total insert count 10957
+INFO 2024-10-23 18:55:32,127 Dumping started for USC00258915.txt file
+INFO 2024-10-23 18:55:32,328 Dump completed for USC00258915.txt file,total insert count 10957
+INFO 2024-10-23 18:55:32,329 Dumping started for USC00250420.txt file
+INFO 2024-10-23 18:55:32,547 Dump completed for USC00250420.txt file,total insert count 10379
+INFO 2024-10-23 18:55:32,551 Dumping started for USC00338830.txt file
+INFO 2024-10-23 18:55:32,766 Dump completed for USC00338830.txt file,total insert count 10957
+INFO 2024-10-23 18:55:32,768 Dumping started for USC00115515.txt file
+INFO 2024-10-23 18:55:32,892 Dump completed for USC00115515.txt file,total insert count 6271
+INFO 2024-10-23 18:55:32,893 Dumping started for USC00120784.txt file
+INFO 2024-10-23 18:55:33,128 Dump completed for USC00120784.txt file,total insert count 10897
+INFO 2024-10-23 18:55:33,129 Dumping started for USC00112483.txt file
+INFO 2024-10-23 18:55:33,344 Dump completed for USC00112483.txt file,total insert count 10898
+INFO 2024-10-23 18:55:33,346 Dumping started for USC00332098.txt file
+INFO 2024-10-23 18:55:33,566 Dump completed for USC00332098.txt file,total insert count 10927
+INFO 2024-10-23 18:55:33,568 Dumping started for USC00116579.txt file
+INFO 2024-10-23 18:55:33,763 Dump completed for USC00116579.txt file,total insert count 10407
+INFO 2024-10-23 18:55:33,765 Dumping started for USC00137979.txt file
+INFO 2024-10-23 18:55:33,983 Dump completed for USC00137979.txt file,total insert count 10926
+INFO 2024-10-23 18:55:33,984 Dumping started for USC00258480.txt file
+INFO 2024-10-23 18:55:34,188 Dump completed for USC00258480.txt file,total insert count 10808
+INFO 2024-10-23 18:55:34,189 Dumping started for USC00258133.txt file
+INFO 2024-10-23 18:55:34,360 Dump completed for USC00258133.txt file,total insert count 9225
+INFO 2024-10-23 18:55:34,361 Dumping started for USC00115712.txt file
+INFO 2024-10-23 18:55:34,586 Dump completed for USC00115712.txt file,total insert count 10957
+INFO 2024-10-23 18:55:34,587 Dumping started for USC00331152.txt file
+INFO 2024-10-23 18:55:34,788 Dump completed for USC00331152.txt file,total insert count 8886
+INFO 2024-10-23 18:55:34,789 Dumping started for USC00335297.txt file
+INFO 2024-10-23 18:55:34,983 Dump completed for USC00335297.txt file,total insert count 9557
+INFO 2024-10-23 18:55:34,984 Dumping started for USC00334189.txt file
+INFO 2024-10-23 18:55:35,195 Dump completed for USC00334189.txt file,total insert count 10834
+INFO 2024-10-23 18:55:35,196 Dumping started for USC00253660.txt file
+INFO 2024-10-23 18:55:35,410 Dump completed for USC00253660.txt file,total insert count 10896
+INFO 2024-10-23 18:55:35,412 Dumping started for USC00137161.txt file
+INFO 2024-10-23 18:55:35,610 Dump completed for USC00137161.txt file,total insert count 10957
+INFO 2024-10-23 18:55:35,611 Dumping started for USC00336600.txt file
+INFO 2024-10-23 18:55:35,820 Dump completed for USC00336600.txt file,total insert count 10561
+INFO 2024-10-23 18:55:35,821 Dumping started for USC00253715.txt file
+INFO 2024-10-23 18:55:35,979 Dump completed for USC00253715.txt file,total insert count 8521
+INFO 2024-10-23 18:55:35,981 Dumping started for USC00338822.txt file
+INFO 2024-10-23 18:55:36,177 Dump completed for USC00338822.txt file,total insert count 10957
+INFO 2024-10-23 18:55:36,178 Dumping started for USC00256135.txt file
+INFO 2024-10-23 18:55:36,373 Dump completed for USC00256135.txt file,total insert count 10957
+INFO 2024-10-23 18:55:36,374 Dumping started for USC00254440.txt file
+INFO 2024-10-23 18:55:36,584 Dump completed for USC00254440.txt file,total insert count 10866
+INFO 2024-10-23 18:55:36,585 Dumping started for USC00132999.txt file
+INFO 2024-10-23 18:55:36,814 Dump completed for USC00132999.txt file,total insert count 10804
+INFO 2024-10-23 18:55:36,816 Dumping started for USC00335041.txt file
+INFO 2024-10-23 18:55:37,032 Dump completed for USC00335041.txt file,total insert count 10896
+INFO 2024-10-23 18:55:37,033 Dumping started for USC00331541.txt file
+INFO 2024-10-23 18:55:37,232 Dump completed for USC00331541.txt file,total insert count 10957
+INFO 2024-10-23 18:55:37,234 Dumping started for USC00135952.txt file
+INFO 2024-10-23 18:55:37,446 Dump completed for USC00135952.txt file,total insert count 10899
+INFO 2024-10-23 18:55:37,448 Dumping started for USC00256040.txt file
+INFO 2024-10-23 18:55:37,612 Dump completed for USC00256040.txt file,total insert count 9009
+INFO 2024-10-23 18:55:37,613 Dumping started for USC00134735.txt file
+INFO 2024-10-23 18:55:37,808 Dump completed for USC00134735.txt file,total insert count 10928
+INFO 2024-10-23 18:55:37,810 Dumping started for USC00123513.txt file
+INFO 2024-10-23 18:55:38,015 Dump completed for USC00123513.txt file,total insert count 10347
+INFO 2024-10-23 18:55:38,016 Dumping started for USC00129557.txt file
+INFO 2024-10-23 18:55:38,437 Dump completed for USC00129557.txt file,total insert count 10957
+INFO 2024-10-23 18:55:38,438 Dumping started for USC00114198.txt file
+INFO 2024-10-23 18:55:38,748 Dump completed for USC00114198.txt file,total insert count 10926
+INFO 2024-10-23 18:55:38,749 Dumping started for USC00252820.txt file
+INFO 2024-10-23 18:55:38,958 Dump completed for USC00252820.txt file,total insert count 10896
+INFO 2024-10-23 18:55:38,960 Dumping started for USC00120177.txt file
+INFO 2024-10-23 18:55:39,172 Dump completed for USC00120177.txt file,total insert count 10837
+INFO 2024-10-23 18:55:39,173 Dumping started for USC00134894.txt file
+INFO 2024-10-23 18:55:39,374 Dump completed for USC00134894.txt file,total insert count 10867
+INFO 2024-10-23 18:55:39,375 Dumping started for USC00130600.txt file
+INFO 2024-10-23 18:55:39,588 Dump completed for USC00130600.txt file,total insert count 10928
+INFO 2024-10-23 18:55:39,590 Dumping started for USC00137147.txt file
+INFO 2024-10-23 18:55:39,842 Dump completed for USC00137147.txt file,total insert count 10957
+INFO 2024-10-23 18:55:39,843 Dumping started for USC00116610.txt file
+INFO 2024-10-23 18:55:40,043 Dump completed for USC00116610.txt file,total insert count 10957
+INFO 2024-10-23 18:55:40,044 Dumping started for USC00126705.txt file
+INFO 2024-10-23 18:55:40,263 Dump completed for USC00126705.txt file,total insert count 10598
+INFO 2024-10-23 18:55:40,266 Dumping started for USC00339312.txt file
+INFO 2024-10-23 18:55:40,474 Dump completed for USC00339312.txt file,total insert count 10957
+INFO 2024-10-23 18:55:40,476 Dumping started for USC00336196.txt file
+INFO 2024-10-23 18:55:40,706 Dump completed for USC00336196.txt file,total insert count 10957
+INFO 2024-10-23 18:55:40,707 Dumping started for USC00134063.txt file
+INFO 2024-10-23 18:55:40,929 Dump completed for USC00134063.txt file,total insert count 10714
+INFO 2024-10-23 18:55:40,931 Dumping started for USC00332119.txt file
+INFO 2024-10-23 18:55:41,044 Dump completed for USC00332119.txt file,total insert count 5722
+INFO 2024-10-23 18:55:41,045 Dumping started for USC00120200.txt file
+INFO 2024-10-23 18:55:41,263 Dump completed for USC00120200.txt file,total insert count 10927
+INFO 2024-10-23 18:55:41,265 Dumping started for USC00258465.txt file
+INFO 2024-10-23 18:55:41,463 Dump completed for USC00258465.txt file,total insert count 10684
+INFO 2024-10-23 18:55:41,464 Dumping started for USC00115326.txt file
+INFO 2024-10-23 18:55:41,699 Dump completed for USC00115326.txt file,total insert count 10077
+INFO 2024-10-23 18:55:41,701 Dumping started for USC00338769.txt file
+INFO 2024-10-23 18:55:41,925 Dump completed for USC00338769.txt file,total insert count 10957
+INFO 2024-10-23 18:55:41,927 Dumping started for USC00116558.txt file
+INFO 2024-10-23 18:55:42,141 Dump completed for USC00116558.txt file,total insert count 10804
+INFO 2024-10-23 18:55:42,143 Dumping started for USC00115079.txt file
+INFO 2024-10-23 18:55:42,337 Dump completed for USC00115079.txt file,total insert count 10501
+INFO 2024-10-23 18:55:42,338 Dumping started for USC00253735.txt file
+INFO 2024-10-23 18:55:42,582 Dump completed for USC00253735.txt file,total insert count 10868
+INFO 2024-10-23 18:55:42,583 Dumping started for USC00333758.txt file
+INFO 2024-10-23 18:55:42,784 Dump completed for USC00333758.txt file,total insert count 10712
+INFO 2024-10-23 18:55:42,785 Dumping started for USC00335315.txt file
+INFO 2024-10-23 18:55:42,967 Dump completed for USC00335315.txt file,total insert count 9768
+INFO 2024-10-23 18:55:42,969 Dumping started for USC00252205.txt file
+INFO 2024-10-23 18:55:43,179 Dump completed for USC00252205.txt file,total insert count 10926
+INFO 2024-10-23 18:55:43,180 Dumping started for USC00125237.txt file
+INFO 2024-10-23 18:55:43,417 Dump completed for USC00125237.txt file,total insert count 10865
+INFO 2024-10-23 18:55:43,418 Dumping started for USC00333375.txt file
+INFO 2024-10-23 18:55:43,618 Dump completed for USC00333375.txt file,total insert count 10926
+INFO 2024-10-23 18:55:43,619 Dumping started for USC00338552.txt file
+INFO 2024-10-23 18:55:43,827 Dump completed for USC00338552.txt file,total insert count 10896
+INFO 2024-10-23 18:55:43,829 Dumping started for USC00132789.txt file
+INFO 2024-10-23 18:55:44,027 Dump completed for USC00132789.txt file,total insert count 10957
+INFO 2024-10-23 18:55:44,028 Dumping started for USC00250375.txt file
+INFO 2024-10-23 18:55:44,245 Dump completed for USC00250375.txt file,total insert count 10835
+INFO 2024-10-23 18:55:44,246 Dumping started for USC00138688.txt file
+INFO 2024-10-23 18:55:44,458 Dump completed for USC00138688.txt file,total insert count 10957
+INFO 2024-10-23 18:55:44,459 Dumping started for USC00115901.txt file
+INFO 2024-10-23 18:55:44,733 Dump completed for USC00115901.txt file,total insert count 10957
+INFO 2024-10-23 18:55:44,734 Dumping started for USC00122149.txt file
+INFO 2024-10-23 18:55:44,918 Dump completed for USC00122149.txt file,total insert count 9554
+INFO 2024-10-23 18:55:44,920 Dumping started for USC00114823.txt file
+INFO 2024-10-23 18:55:45,137 Dump completed for USC00114823.txt file,total insert count 10929
+INFO 2024-10-23 18:55:45,138 Dumping started for USC00110338.txt file
+INFO 2024-10-23 18:55:45,341 Dump completed for USC00110338.txt file,total insert count 10712
+INFO 2024-10-23 18:55:45,342 Dumping started for USC00121873.txt file
+INFO 2024-10-23 18:55:45,550 Dump completed for USC00121873.txt file,total insert count 10742
+INFO 2024-10-23 18:55:45,551 Dumping started for USC00123527.txt file
+INFO 2024-10-23 18:55:45,876 Dump completed for USC00123527.txt file,total insert count 10896
+INFO 2024-10-23 18:55:45,877 Dumping started for USC00127755.txt file
+INFO 2024-10-23 18:55:46,047 Dump completed for USC00127755.txt file,total insert count 8467
+INFO 2024-10-23 18:55:46,048 Dumping started for USC00111436.txt file
+INFO 2024-10-23 18:55:46,259 Dump completed for USC00111436.txt file,total insert count 10744
+INFO 2024-10-23 18:55:46,260 Dumping started for USC00110072.txt file
+INFO 2024-10-23 18:55:46,457 Dump completed for USC00110072.txt file,total insert count 10865
+INFO 2024-10-23 18:55:46,458 Dumping started for USC00131533.txt file
+INFO 2024-10-23 18:55:46,670 Dump completed for USC00131533.txt file,total insert count 10957
+INFO 2024-10-23 18:55:46,671 Dumping started for USC00135769.txt file
+INFO 2024-10-23 18:55:46,866 Dump completed for USC00135769.txt file,total insert count 10833
+INFO 2024-10-23 18:55:46,868 Dumping started for USC00135796.txt file
+INFO 2024-10-23 18:55:47,082 Dump completed for USC00135796.txt file,total insert count 10957
+INFO 2024-10-23 18:55:47,083 Dumping started for USC00119241.txt file
+INFO 2024-10-23 18:55:47,282 Dump completed for USC00119241.txt file,total insert count 10869
+INFO 2024-10-23 18:55:47,283 Dumping started for USC00336781.txt file
+INFO 2024-10-23 18:55:47,482 Dump completed for USC00336781.txt file,total insert count 10927
+INFO 2024-10-23 18:55:47,484 Dumping started for USC00254110.txt file
+INFO 2024-10-23 18:55:47,693 Dump completed for USC00254110.txt file,total insert count 10683
+INFO 2024-10-23 18:55:47,694 Dumping started for USC00253910.txt file
+INFO 2024-10-23 18:55:47,981 Dump completed for USC00253910.txt file,total insert count 10957
+INFO 2024-10-23 18:55:47,981 Dumping started for USC00253630.txt file
+INFO 2024-10-23 18:55:48,218 Dump completed for USC00253630.txt file,total insert count 10927
+INFO 2024-10-23 18:55:48,219 Dumping started for USC00126001.txt file
+INFO 2024-10-23 18:55:48,497 Dump completed for USC00126001.txt file,total insert count 10562
+INFO 2024-10-23 18:55:48,498 Dumping started for USC00255080.txt file
+INFO 2024-10-23 18:55:48,704 Dump completed for USC00255080.txt file,total insert count 9556
+INFO 2024-10-23 18:55:48,705 Dumping started for USC00117551.txt file
+INFO 2024-10-23 18:55:48,957 Dump completed for USC00117551.txt file,total insert count 10803
+INFO 2024-10-23 18:55:48,960 Dumping started for USC00121747.txt file
+INFO 2024-10-23 18:55:49,223 Dump completed for USC00121747.txt file,total insert count 10957
+INFO 2024-10-23 18:55:49,224 Dumping started for USC00127875.txt file
+INFO 2024-10-23 18:55:49,379 Dump completed for USC00127875.txt file,total insert count 8219
+INFO 2024-10-23 18:55:49,381 Dumping started for USC00127646.txt file
+INFO 2024-10-23 18:55:49,592 Dump completed for USC00127646.txt file,total insert count 10957
+INFO 2024-10-23 18:55:49,593 Dumping started for USC00111280.txt file
+INFO 2024-10-23 18:55:49,767 Dump completed for USC00111280.txt file,total insert count 9343
+INFO 2024-10-23 18:55:49,768 Dumping started for USC00121425.txt file
+INFO 2024-10-23 18:55:49,879 Dump completed for USC00121425.txt file,total insert count 5811
+INFO 2024-10-23 18:55:49,881 Dumping started for USC00129253.txt file
+INFO 2024-10-23 18:55:50,067 Dump completed for USC00129253.txt file,total insert count 10468
+INFO 2024-10-23 18:55:50,069 Dumping started for USC00250070.txt file
+INFO 2024-10-23 18:55:50,252 Dump completed for USC00250070.txt file,total insert count 8918
+INFO 2024-10-23 18:55:50,253 Dumping started for USC00252840.txt file
+INFO 2024-10-23 18:55:50,477 Dump completed for USC00252840.txt file,total insert count 9771
+INFO 2024-10-23 18:55:50,478 Dumping started for USC00116738.txt file
+INFO 2024-10-23 18:55:50,640 Dump completed for USC00116738.txt file,total insert count 8126
+INFO 2024-10-23 18:55:50,641 Dumping started for USC00253035.txt file
+INFO 2024-10-23 18:55:50,679 Dump completed for USC00253035.txt file,total insert count 2069
+INFO 2024-10-23 18:55:50,680 Dumping started for USC00130112.txt file
+INFO 2024-10-23 18:55:50,880 Dump completed for USC00130112.txt file,total insert count 10806
+INFO 2024-10-23 18:55:50,881 Dumping started for USC00338534.txt file
+INFO 2024-10-23 18:55:51,071 Dump completed for USC00338534.txt file,total insert count 10469
+INFO 2024-10-23 18:55:51,072 Dumping started for USC00115768.txt file
+INFO 2024-10-23 18:55:51,278 Dump completed for USC00115768.txt file,total insert count 10745
+INFO 2024-10-23 18:55:51,280 Dumping started for USC00131635.txt file
+INFO 2024-10-23 18:55:51,477 Dump completed for USC00131635.txt file,total insert count 10957
+INFO 2024-10-23 18:55:51,478 Dumping started for USC00251145.txt file
+INFO 2024-10-23 18:55:51,689 Dump completed for USC00251145.txt file,total insert count 10836
+INFO 2024-10-23 18:55:51,690 Dumping started for USC00252100.txt file
+INFO 2024-10-23 18:55:51,883 Dump completed for USC00252100.txt file,total insert count 10713
+INFO 2024-10-23 18:55:51,884 Dumping started for USC00119354.txt file
+INFO 2024-10-23 18:55:52,128 Dump completed for USC00119354.txt file,total insert count 10896
+INFO 2024-10-23 18:55:52,129 Dumping started for USC00113335.txt file
+INFO 2024-10-23 18:55:52,321 Dump completed for USC00113335.txt file,total insert count 10652
+INFO 2024-10-23 18:55:52,323 Dumping started for USC00256570.txt file
+INFO 2024-10-23 18:55:52,531 Dump completed for USC00256570.txt file,total insert count 10836
+INFO 2024-10-23 18:55:52,533 Dumping started for USC00124837.txt file
+INFO 2024-10-23 18:55:52,729 Dump completed for USC00124837.txt file,total insert count 10866
+INFO 2024-10-23 18:55:52,730 Dumping started for USC00112348.txt file
+INFO 2024-10-23 18:55:52,921 Dump completed for USC00112348.txt file,total insert count 9681
+INFO 2024-10-23 18:55:52,922 Dumping started for USC00332791.txt file
+INFO 2024-10-23 18:55:53,121 Dump completed for USC00332791.txt file,total insert count 10957
+INFO 2024-10-23 18:55:53,122 Dumping started for USC00336118.txt file
+INFO 2024-10-23 18:55:53,320 Dump completed for USC00336118.txt file,total insert count 10957
+INFO 2024-10-23 18:55:53,322 Dumping started for USC00129080.txt file
+INFO 2024-10-23 18:55:53,475 Dump completed for USC00129080.txt file,total insert count 7609
+INFO 2024-10-23 18:55:53,476 Dumping started for USC00127522.txt file
+INFO 2024-10-23 18:55:53,674 Dump completed for USC00127522.txt file,total insert count 10926
+INFO 2024-10-23 18:55:53,675 Dumping started for USC00125337.txt file
+INFO 2024-10-23 18:55:53,876 Dump completed for USC00125337.txt file,total insert count 10926
+INFO 2024-10-23 18:55:53,877 Dumping started for USC00123418.txt file
+INFO 2024-10-23 18:55:54,122 Dump completed for USC00123418.txt file,total insert count 10957
+INFO 2024-10-23 18:55:54,123 Dumping started for USC00127482.txt file
+INFO 2024-10-23 18:55:54,326 Dump completed for USC00127482.txt file,total insert count 10957
+INFO 2024-10-23 18:55:54,328 Dumping started for USC00121030.txt file
+INFO 2024-10-23 18:55:54,525 Dump completed for USC00121030.txt file,total insert count 10135
+INFO 2024-10-23 18:55:54,526 Dumping started for USC00253185.txt file
+INFO 2024-10-23 18:55:54,772 Dump completed for USC00253185.txt file,total insert count 10957
+INFO 2024-10-23 18:55:54,773 Dumping started for USC00331072.txt file
+INFO 2024-10-23 18:55:54,977 Dump completed for USC00331072.txt file,total insert count 10957
+INFO 2024-10-23 18:55:54,979 Dumping started for USC00120676.txt file
+INFO 2024-10-23 18:55:55,236 Dump completed for USC00120676.txt file,total insert count 10652
+INFO 2024-10-23 18:55:55,237 Dumping started for USC00127125.txt file
+INFO 2024-10-23 18:55:55,475 Dump completed for USC00127125.txt file,total insert count 10804
+INFO 2024-10-23 18:55:55,476 Dumping started for USC00331890.txt file
+INFO 2024-10-23 18:55:55,719 Dump completed for USC00331890.txt file,total insert count 10772
+INFO 2024-10-23 18:55:55,720 Dumping started for USC00254985.txt file
+INFO 2024-10-23 18:55:55,961 Dump completed for USC00254985.txt file,total insert count 9861
+INFO 2024-10-23 18:55:55,963 Dumping started for USC00259090.txt file
+INFO 2024-10-23 18:55:56,207 Dump completed for USC00259090.txt file,total insert count 9374
+INFO 2024-10-23 18:55:56,208 Dump completed in 0:00:35.748565 seconds,total insert count1729957
+DEBUG 2024-10-24 00:26:08,168 get 'PAGE_SIZE' casted as 'None' with default '<NoValue>'
